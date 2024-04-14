@@ -9,8 +9,8 @@ This project utilizes the CelebA dataset consisting of 5000 photos containing a 
 > The Results:
 
 <p align="center">
-  <img src="miscellaneous/Male.PNG" height="400" width="325" />
-  <img src="miscellaneous/Female.PNG" height="400" width="325" />
+  <img src="miscellaneous/Male.PNG" height="300" width="225" />
+  <img src="miscellaneous/Female.PNG" height="300" width="225" />
 </p>
 
 ## 2. Food Classification
@@ -23,7 +23,7 @@ This project utilizes the CelebA dataset consisting of 5000 photos containing a 
 > The Results:
 
 <p align="center">
-  <img src="miscellaneous/Pizza.PNG" height="300" width="300" />
-  <img src="miscellaneous/Steak.PNG" height="300" width="300" />
-  <img src="miscellaneous/Sushi.PNG" height="300" width="300" />
+  <img src="miscellaneous/Pizza.PNG" height="250" width="250" />
+  <img src="miscellaneous/Steak.PNG" height="250" width="250" />
+  <img src="miscellaneous/Sushi.PNG" height="250" width="250" />
 </p>
