@@ -6,6 +6,10 @@ Here is a collection of self-projects in Computer Vision using PyTorch to contin
 
 This project utilizes the CelebA dataset consisting of 5000 photos containing a mix of males and females. The goal of this project is to experiment with building gender classification models using several pre-trained models. The models used include Inception V3, ResNet 50, and EfficientNet B2. This project contains Exploratory Data Analysis (EDA), Data Preparation, Data Preprocessing, Model Building, Training, Evaluation, and Predictions.
 
+The Results:
+
+
+
 ## 2. Food Classification
 
 * This is a computer vision project to create food classification. The dataset used is Food 101. Only a portion of the dataset is taken, namely pizza, steak, and sushi. This project uses the pretrained ResNet 50 model.
