@@ -1,4 +1,4 @@
-# Self Project Computer Vision
+# Self-Project Computer Vision
 
 Here is a collection of self-projects in Computer Vision using PyTorch to continue my learning from the Computer Vision Bootcamp at the Indonesia AI and to enhance problem-solving skills in various Computer Vision applications.
 
@@ -27,3 +27,10 @@ This project utilizes the CelebA dataset consisting of 5000 photos containing a 
   <img src="miscellaneous/Steak.PNG" height="250" width="250" />
   <img src="miscellaneous/Sushi.PNG" height="250" width="250" />
 </p>
+
+## 3. Plant Diseases Classification
+
+This is a Computer Vision project that aims to create a classification model for healthy plants and diseased plants. The dataset used is a dataset that is already available on [Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset). The dataset has 38 different classes and has been split into 80/20 portions for training and validation, and a testing directory has been prepared for model predictions. The method used in creating image classification models is Transfer Learning from the ResNet50 and EfficientNet V2 models. Transfer Learning is the most effective and efficient method because many pre-trained models have been tested and can be used for other image classification tasks. Many papers suggest using the Transfer Learning method. The selected pre-trained model has good performance and the number of parameters is not too large so it does not burden the computing process. The performance of the pre-trained model can be seen in the [PyTorch documentation](https://pytorch.org/vision/stable/models.html). The main goal of this project is to conduct experiments and compare the two pre-trained models to get the best classification model.
+
+> The Results:
+
