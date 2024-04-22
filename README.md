@@ -34,3 +34,8 @@ This is a Computer Vision project that aims to create a classification model for
 
 > The Results:
 
+<p align="center">
+  <img src="miscellaneous/Apple Cedar Rust.png" height="250" width="250" />
+  <img src="miscellaneous/Potato Early Blight.png" height="250" width="250" />
+  <img src="miscellaneous/Potato Healthy.png" height="250" width="250" />
+</p>
