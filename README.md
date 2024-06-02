@@ -39,3 +39,16 @@ This is a Computer Vision project that aims to create a classification model for
   <img src="miscellaneous/Potato Early Blight.png" height="250" width="250" />
   <img src="miscellaneous/Potato Healthy.png" height="250" width="250" />
 </p>
+
+## 4. Semantic Segmentation
+
+Here is the result of learning AI Computer Vision model creation for the Semantic Segmentation task. The dataset used is the Tray Food dataset. The steps taken include dataset preparation, preprocessing and augmentation, dataloader creation, pretrained model preparation, loss function, optimizer, performance metrics, training process, and prediction. The Semantic Segmentation model used is [UNet](https://github.com/qubvel/segmentation_models.pytorch) with ResNet 50 as the backbone or encoder. The training was done with 10 epochs. The training results include Dice Loss - 0.1327, IoU score - 0.8378, and F1 score - 0.9117. This shows that the Semantic Segmentation model has good performance. Semantic Segmentation can be used in various applications such as self-driving cars, medical diagnosis, and material inspection.
+
+> The Results:
+
+<p align="center">
+  <img src="miscellaneous/Tray Food 1.png" height="250" width="250" />
+  <img src="miscellaneous/Tray Food 2.png" height="250" width="250" />
+  <img src="miscellaneous/Tray Food 3.png" height="250" width="250" />
+</p>
+
