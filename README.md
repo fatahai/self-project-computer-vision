@@ -52,3 +52,15 @@ Here is the result of learning AI Computer Vision model creation for the Semanti
   <img src="miscellaneous/Tray Food 3.png" height="250" width="250" />
 </p>
 
+## 5. Self-Driving Car
+
+The UNet model trained on the Cityscapes dataset achieved an IoU score of 0.78 over 25 epochs, demonstrating high accuracy in segmenting complex urban scenes. The model effectively distinguishes between classes such as roads, sidewalks, buildings, vegetation, and sky, with minor inaccuracies at some boundaries. Despite occasional class confusion, the segmentation results are visually consistent and reliable. Further fine-tuning and additional training could enhance boundary precision and overall performance, making the model a robust tool for urban scene understanding and semantic segmentation tasks.
+
+> The Results:
+
+<p align="center">
+  <img src="miscellaneous/Cityscapes 1.png" height="250" width="250" />
+  <img src="miscellaneous/Cityscapes 2.png" height="250" width="250" />
+  <img src="miscellaneous/Cityscapes 3.png" height="250" width="250" />
+</p>
+
