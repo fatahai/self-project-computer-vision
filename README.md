@@ -59,8 +59,10 @@ The UNet model trained on the Cityscapes dataset achieved an IoU score of 0.78 o
 > The Results:
 
 <p align="center">
-  <img src="miscellaneous/Cityscapes 1.png" height="250" width="250" />
-  <img src="miscellaneous/Cityscapes 2.png" height="250" width="250" />
-  <img src="miscellaneous/Cityscapes 3.png" height="250" width="250" />
+  <img src="miscellaneous/Cityscapes 1.PNG" height="250" width="750" />
+</p>
+
+<p align="center">
+  <img src="miscellaneous/Cityscapes 2.PNG" height="250" width="750" />
 </p>
 
